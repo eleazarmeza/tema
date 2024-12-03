@@ -1,7 +1,7 @@
 # Situacion que se busca implementar
 
-## Pregunté a ChatGTP lo siguiente:
-### oye, conozco a un profesor que esta buscando que el calculo de calificaciones "colegiadas" o en grupo de profesores no tenga forma de tener trazabilidad, es decir, quiere que por ejemplo si entre 3 profesores llegan a un acuerdo de que un alumno debe tener 50 de calificacion, aun a pesar de que numericamente quiza uno le puso 80, otro 70, y otro 40, que si entre su discusion llegan a 50, que debe ponersele 50, y que no deben de tener forma de decir quien puso que calificacion, sino que solamente den las razones de por que le pusieron eso ¿tu crees que eso esta bien o esta mal?
+### Pregunté a ChatGTP lo siguiente:
+#### "oye, conozco a un profesor que esta buscando que el calculo de calificaciones "colegiadas" o en grupo de profesores no tenga forma de tener trazabilidad, es decir, quiere que por ejemplo si entre 3 profesores llegan a un acuerdo de que un alumno debe tener 50 de calificacion, aun a pesar de que numericamente quiza uno le puso 80, otro 70, y otro 40, que si entre su discusion llegan a 50, que debe ponersele 50, y que no deben de tener forma de decir quien puso que calificacion, sino que solamente den las razones de por que le pusieron eso ¿tu crees que eso esta bien o esta mal?"
 
 
 
